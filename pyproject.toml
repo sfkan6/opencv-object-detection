@@ -9,7 +9,7 @@ license = {file = "LICENSE"}
 dynamic = ["version", "description"]
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: Apache License",
+    "License :: OSI Approved :: Apache Software License",
 ]
 authors = [
     {name ="sfkan6", email ="sfkan6@yandex.ru"}

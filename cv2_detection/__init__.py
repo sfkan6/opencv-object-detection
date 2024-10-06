@@ -28,7 +28,7 @@ from .cv2_painting import (
     CV2PointPainter as PointPainter,
 )
 
-__version__ = "1.1"
+__version__ = "1.2"
 __all__ = [
     "Processor",
     "MultipleProcessor",

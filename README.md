@@ -2,6 +2,10 @@
 
 Обнаружение объектов с помощью opencv
 
+Установить:
+```
+pip install cv2-detection
+```
 
 Позволяет легко настроить обнаружение контуров объектов по [HSV диапазонам](https://docs.opencv.org/3.4/da/d97/tutorial_threshold_inRange.html). Работает с изображениями и камерой.
 
