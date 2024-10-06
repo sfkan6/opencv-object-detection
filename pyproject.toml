@@ -17,7 +17,7 @@ authors = [
 keywords = ['opencv', 'cv2', 'object', 'detection']
 
 requires-python = ">=3.7"
-dependencies = ["opencv-python>=4.10.0.84"]
+dependencies = ["opencv-python-headless>=4.10.0.84"]
 
 
 [project.urls]
